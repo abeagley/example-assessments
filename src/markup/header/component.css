@@ -1,0 +1,25 @@
+.row.nav--top {
+  background: #1C1C1C;
+  border-bottom: 1px solid #474747;
+  color: #FFF;
+  padding: 0.8rem;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+
+.row.nav--top .col {
+  padding: 0;
+}
+
+.btn.btn-default {
+  background: linear-gradient(#2E2E2E, #020202);
+  border: 1px solid #2F2F2F;
+  color: #FFF;
+  font-size: 12px;
+  padding: 0.2rem 0.6rem;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+
+.btn.btn-default span {
+  font-size: 16px;
+  line-height: 12px;
+}

@@ -1,0 +1,9 @@
+.mobile-view.container {
+  background: url("../../assets/bg.png") top left no-repeat #011F3B;
+  height: 600px;
+  margin: 2rem auto;
+  max-width: 365px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 365px;
+}

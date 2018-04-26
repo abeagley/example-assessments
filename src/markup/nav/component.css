@@ -1,0 +1,19 @@
+.list-group.main-nav {
+  margin: 0 0 1.5rem;
+}
+
+.list-group.main-nav .list-group-item-action {
+  background: linear-gradient(#E8EBEE, #C0CEDB);
+  border-color: #FFF;
+  color: #001325;
+  font-weight: 600;
+}
+
+.list-group.main-nav .list-group-item-action span {
+  color: #454545;
+  font-size: 32px;
+  line-height: 14px;
+  position: relative;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 1);
+  top: -2px;
+}

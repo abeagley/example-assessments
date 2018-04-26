@@ -1,0 +1,43 @@
+.row.details {
+  margin: 1rem 0;
+}
+
+.row.details .col {
+  padding: 0;
+}
+
+.image-box {
+  padding: 0.4rem;
+  background: #FFF;
+  box-shadow: 0 4px 14px 0 rgba(0,0,0,0.33);
+}
+
+.image-box img {
+  width: 100%;
+}
+
+h5.title {
+  color: #FFF;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 1.5rem 0 0;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+
+p {
+  font-size: 14px;
+}
+
+p.address {
+  color: #A1BED9;
+  margin: 0.2rem 0;
+}
+
+p.phone {
+  margin: 0 0 1rem;
+}
+
+p.phone a {
+  color: #FFF;
+  text-decoration: underline;
+}
